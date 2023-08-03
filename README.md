@@ -1,10 +1,9 @@
 # Hi there, I'm Danny 👋 
 
-## I'm a Frontend Developer, and Teacher!!
+## I'm a Computer Engineer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about backend and web3
+- 🥅 2023 Goals: Learn more about backend and AWS
 - ⚡ Fun fact: I love to brew beer and play soccer
 
 ### Languages and Tools:

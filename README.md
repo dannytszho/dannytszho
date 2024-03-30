@@ -3,7 +3,7 @@
 ## I'm a Computer Engineer, and Teacher!!
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about backend and AWS
+- 🥅 2024 Goals: Learn more about AI and ML
 - ⚡ Fun fact: I love to brew beer and play soccer
 
 ### Languages and Tools:
